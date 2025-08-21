@@ -1,0 +1,54 @@
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.Up2Date
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.Up2Date
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+E:\LTCSDL_10.8\QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.Up2Date
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+E:\LTCSDL_Final\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
